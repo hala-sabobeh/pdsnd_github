@@ -2,7 +2,7 @@ import time
 import pandas as pd
 import numpy as np
 import statistics as stat
-
+""" This is part of Udacity Programming for Data Science with Python nanodegree"""
 def get_city():
     """
     Prompt the user to enter a city name and validate the input.
